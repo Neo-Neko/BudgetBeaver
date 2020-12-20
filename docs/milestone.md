@@ -21,10 +21,11 @@ Basic setup of app.
 - main budget page
 - budget setup page
 - expense type edit page
+- start react native client
 
 # Milestone 2
 
-Manipulate data
+Manipulate data, finish react native client
 
 # Milestone 3
 
