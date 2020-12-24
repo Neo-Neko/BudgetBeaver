@@ -1,7 +1,10 @@
 version: '3'
 services:
   db:
-    image: postgres
+    image: postgres:12
+    environment:
+      POSTGRES_DB: "db"
+      POSTGRES_HOST_AUTH_METHOD: "trust"
     volumes:
       - ./server/tmp/db:/var/lib/postgresql/data
 

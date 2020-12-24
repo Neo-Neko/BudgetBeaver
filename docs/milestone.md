@@ -4,7 +4,7 @@ Basic setup of app.
 
 ### devops
 
-- docker/docker-compose dev env
+- ~~docker/docker-compose dev env~~
 
 ### server
 
