@@ -9,19 +9,19 @@ Basic setup of app.
 ### server
 
 - [x] Database Schema
-- [] Users/User auth
-- [] Max Budget
-- [] Weekly/Bi-weekly/Montly
-- [] Expense types
+- [ ] Users/User auth
+- [ ] Max Budget
+- [ ] Weekly/Bi-weekly/Montly
+- [ ] Expense types
 
 ### client
 
-- [] integrate component libray (material?)
-- [] signup/login
-- [] main budget page
-- [] budget setup page
-- [] expense type edit page
-- [] start react native client
+- [ ] integrate component libray (material?)
+- [ ] signup/login
+- [ ] main budget page
+- [ ] budget setup page
+- [ ] expense type edit page
+- [ ] start react native client
 
 # Milestone 2
 
