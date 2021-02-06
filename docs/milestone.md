@@ -4,24 +4,24 @@ Basic setup of app.
 
 ### devops
 
-- ~~docker/docker-compose dev env~~
+- [x] docker/docker compose setup
 
 ### server
 
-- Database Schema
-- Users/User auth
-- Max Budget
-- Weekly/Bi-weekly/Montly
-- Expense types
+- [x] Database Schema
+- [] Users/User auth
+- [] Max Budget
+- [] Weekly/Bi-weekly/Montly
+- [] Expense types
 
 ### client
 
-- integrate component libray (material?)
-- signup/login
-- main budget page
-- budget setup page
-- expense type edit page
-- start react native client
+- [] integrate component libray (material?)
+- [] signup/login
+- [] main budget page
+- [] budget setup page
+- [] expense type edit page
+- [] start react native client
 
 # Milestone 2
 
